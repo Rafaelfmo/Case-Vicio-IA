@@ -1,9 +1,6 @@
-# VDE final
+# Case: Classificação de Tópicos
 
-Entrega final do classificador. O projeto é autocontido e não depende das
-soluções anteriores. A classificação não chama LLM.
-
-## Executar
+## Como Executar
 
 Na raiz deste diretório:
 
