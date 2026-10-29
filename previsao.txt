@@ -1,0 +1,9 @@
+precisao_prevista: 0.96
+precisao_intervalo: 0.93-0.99
+cobertura_prevista: 0.34
+cobertura_intervalo: 0.26-0.42
+
+Estimativa baseada em validação cruzada OOF repetida nos rótulos da folha-verdade.
+O threshold foi escolhido no maior prefixo de confiança com precisão OOF de pelo menos 96%.
+O corpus externo eduagarcia/oab_exams foi usado somente para ajustar o vocabulário e o IDF do TF-IDF.
+Não foram usados gabaritos, respostas ou rótulos da OAB. A classificação final roda offline, sem LLM.

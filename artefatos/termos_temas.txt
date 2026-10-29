@@ -1,0 +1,360 @@
+# tema_id|termos (dicionário escrito à mão por Claude/Rafael como dado; revisar com o professor)
+## Criminologia
+4366|vítima classificação vítimas Mendelsohn Hentig vítima ideal vítima provocadora vítima inocente
+4367|criminoso classificação criminosos Lombroso Ferri Garofalo nato louco habitual ocasional passional tipos de delinquente
+4368|criminologia Estado Democrático de Direito prevenção reação ao delito modelo
+4369|prevenção primária secundária terciária sistemas de prevenção do delito
+4370|modelos de reação ao delito clássico dissuasório ressocializador integrador justiça restaurativa mediação
+4371|escolas criminológicas etapas evolutivas Escola Clássica Positivista Beccaria Lombroso
+4372|antiguidade idade média idade moderna demonologia pré-científica evolução histórica da criminologia
+4373|escola clássica escola positiva positivismo criminológico Lombroso Ferri Garofalo Beccaria livre arbítrio determinismo terza scuola
+4374|política criminal Direito Penal do Inimigo Jakobs garantismo Ferrajoli Zaffaroni minimalismo abolicionismo movimento lei e ordem
+4375|correntes política criminal minimalismo abolicionismo lei e ordem tolerância zero garantismo
+4376|direito penal do inimigo Jakobs inimigo cidadão
+4377|criminalização primária secundária cifras criminais seletividade sistema penal
+4378|criminalização primária secundária seletividade etiquetamento Zaffaroni Vera Andrade sistema penal clientela
+4379|cifra negra cifra dourada cifra oculta subnotificação
+4380|criminologia conceito objeto método função interdisciplinar ciência empírica
+4381|conceito e objeto da criminologia crime criminoso vítima controle social
+4382|métodos funções da criminologia empírico indutivo interdisciplinar
+4383|síndrome de Estocolmo síndrome de Londres vítima sequestro reféns
+4384|teorias legitimadoras da pena retribuição prevenção geral especial positiva negativa ressocialização
+4385|teorias sociológicas criminalidade Chicago anomia associação diferencial subcultura labelling approach etiquetamento crítica radical
+4386|teorias de nível individual biológicas psicológicas Lombroso genética
+4387|teorias de nível sociológico macrossociológicas Durkheim Merton
+4388|escola de Chicago ecologia criminal anomia Merton associação diferencial Sutherland subcultura delinquente Cohen etiquetamento Becker broken windows janelas quebradas crime de colarinho branco controle social
+4389|vitimologia vítima
+4390|vitimização primária secundária terciária processo de vitimização
+## Legislação especial
+4684|abuso de autoridade Lei 13.869 13869 2019 agente público
+4685|biossegurança Lei 11.105 11105 OGM organismos geneticamente modificados
+4686|contravenções penais Decreto-Lei 3.688 3688 vias de fato jogo do bicho
+4692|crimes eleitorais Código Eleitoral Lei 4.737 propaganda eleitoral compra de voto
+4693|crimes hediondos Lei 8.072 8072 equiparados hediondo tortura tráfico terrorismo
+4695|crimes tributários Lei 8.137 8137 sonegação fiscal ordem tributária apropriação indébita previdenciária
+4687|economia popular Lei 1.521 1521 usura
+4689|sistema financeiro Lei 7.492 7492 instituição financeira gestão fraudulenta
+4688|meio ambiente Lei 9.605 9605 crimes ambientais fauna flora pessoa jurídica poluição
+4690|racismo Lei 7.716 7716 preconceito raça cor discriminação injúria racial
+4691|crimes de trânsito Código de Trânsito Brasileiro Lei 9.503 9503 embriaguez ao volante homicídio culposo na direção de veículo automotor
+4694|crimes Código de Defesa do Consumidor Lei 8.078 8078 consumidor
+4696|Estatuto do Idoso Lei 10.741 10741 idoso crimes pessoa idosa
+4697|Estatuto do Desarmamento Lei 10.826 10826 arma de fogo porte posse munição
+4698|genocídio Lei 2.889 2889 grupo nacional étnico racial religioso
+4699|identificação criminal Lei 12.037 12037 datiloscópica fotográfica civilmente identificado
+4700|interceptação telefônica Lei 9.296 9296 comunicações telefônicas informática telemática
+4701|juizado especial criminal Lei 9.099 9099 menor potencial ofensivo transação penal suspensão condicional do processo sumaríssimo composição civil dos danos
+4702|lavagem de dinheiro Lei 9.613 9613 ocultação bens valores capitais
+4704|Lei Maria da Penha Lei 11.340 11340 violência doméstica familiar mulher medida protetiva de urgência
+4703|Lei de Execução Penal Lei 7.210 7210 execução da pena progressão regressão remição saída temporária falta grave regime disciplinar diferenciado apenado preso condenado benefício
+4705|organizações criminosas Lei 12.850 12850 organização criminosa colaboração premiada infiltração
+4706|terrorismo Lei 13.260 13260 ato terrorista
+4707|tortura Lei 9.455 9455 constranger violência grave ameaça sofrimento físico mental
+4708|tráfico de drogas Lei 11.343 11343 entorpecentes substância entorpecente usuário porte para consumo pessoal
+4709|Estatuto da Criança e do Adolescente ECA Lei 8.069 8069 criança adolescente ato infracional
+## Penal
+5063|ação penal pública privada condicionada representação queixa art 100 art 24
+5064|ação penal pública incondicionada condicionada à representação requisição do Ministro da Justiça
+5065|ação penal privada subsidiária da pública queixa personalíssima perempção decadência
+5066|concurso de crimes concurso material formal continuado art 69 art 70 art 71 cúmulo material exasperação
+5067|concurso material art 69 soma das penas cúmulo material
+5068|concurso formal art 70 próprio impróprio desígnios autônomos exasperação
+5069|crime continuado art 71 continuidade delitiva mesmas condições de tempo lugar e maneira de execução
+5070|pena de multa no concurso de crimes art 72 multa
+5071|concurso de pessoas coautoria participação art 29 art 30
+5072|autores e partícipes autor coautor partícipe instigação cumplicidade teoria objetivo-formal domínio do fato
+5073|autoria mediata colateral incerta coautoria domínio do fato
+5074|participação instigação induzimento auxílio moral material
+5075|cooperação dolosamente distinta desvio subjetivo art 29 § 2º participação de menor importância
+5076|comunicabilidade circunstâncias condições elementares art 30 elementar do crime circunstâncias de caráter pessoal
+5077|lesão corporal art 129 lesão leve grave gravíssima seguida de morte violência doméstica culposa
+5079|crimes contra a administração da justiça denunciação caluniosa falso testemunho fraude processual favorecimento pessoal
+5080|denunciação caluniosa art 339 comunicação falsa de crime art 340 autoacusação falsa
+5081|falso testemunho falsa perícia art 342 corrupção ativa de testemunha
+5082|exercício arbitrário das próprias razões art 345
+5083|fraude processual art 347
+5084|favorecimento pessoal favorecimento real art 348 art 349
+5085|exercício arbitrário ou abuso de poder art 350
+5086|evasão mediante violência arrebatamento de preso motim de presos patrocínio infiel advogado
+5087|crimes contra a administração pública funcionário público arts 312 a 359 peculato concussão corrupção prevaricação desacato
+5088|noções gerais crimes contra a administração pública conceito de funcionário público art 327 equiparado
+5089|peculato art 312 peculato apropriação peculato desvio peculato furto peculato culposo peculato mediante erro de outrem art 313
+5090|emprego irregular de verbas ou rendas públicas art 315
+5091|concussão excesso de exação art 316 exigir vantagem indevida
+5092|corrupção passiva art 317 solicitar receber vantagem indevida funcionário
+5093|corrupção ativa art 333 oferecer prometer vantagem indevida
+5094|contrabando descaminho art 334 art 334-A iludir imposto importação mercadoria proibida
+5095|prevaricação art 319 retardar omitir ato de ofício satisfazer interesse sentimento pessoal
+5096|condescendência criminosa art 320
+5097|advocacia administrativa art 321 patrocinar interesse privado
+5098|violência arbitrária art 322
+5099|usurpação de função pública art 328 exercer função pública sem ser funcionário
+5100|resistência desobediência desacato art 329 art 330 art 331 oposição à execução de ato legal
+5101|tráfico de influência art 332 exploração de prestígio art 357
+5102|crimes contra a dignidade sexual estupro art 213 art 217-A Lei 12.015 12015
+5103|estupro estupro de vulnerável art 213 art 217-A conjunção carnal ato libidinoso menor de 14 anos
+5104|violação sexual mediante fraude art 215
+5105|importunação sexual art 215-A ato libidinoso sem anuência
+5106|assédio sexual art 216-A constranger prevalecendo-se superior hierárquico
+5107|registro não autorizado da intimidade sexual art 216-B
+5108|corrupção de menores art 218 satisfazer lascívia de outrem
+5109|lenocínio tráfico de pessoas rufianismo favorecimento da prostituição casa de prostituição ultraje público ao pudor
+5110|disposições gerais dos crimes sexuais ação penal pública condicionada aumento de pena art 226 art 225
+5111|crimes contra a família bigamia adultério casamento
+5112|bigamia art 235 induzimento a erro essencial ocultação de impedimento
+5113|registrar como seu filho de outrem parto suposto supressão ou alteração de direito inerente ao estado civil
+5114|abandono material art 244 abandono intelectual art 246 entrega de filho menor a pessoa inidônea
+5115|induzimento a fuga subtração de incapazes sonegação de estado de filiação
+5116|crimes contra a fé pública moeda falsa falsidade documental falsificação
+5117|moeda falsa art 289 petrechos falsificação de papéis públicos selo
+5118|falsidade documental falsificação de documento público particular art 297 art 298 falsidade ideológica art 299 uso de documento falso art 304
+5119|falsa identidade art 307 certidão atestado falso falsidade de atestado médico
+5120|crimes contra a honra calúnia difamação injúria art 138 art 139 art 140
+5121|disposições gerais crimes contra a honra exceção da verdade retratação art 141 art 142 art 143 ação penal
+5122|calúnia art 138 imputar falsamente fato definido como crime
+5123|difamação art 139 imputar fato ofensivo à reputação
+5124|injúria art 140 ofender dignidade decoro injúria racial injúria real perdão judicial
+5125|crimes contra a incolumidade pública perigo comum incêndio explosão
+5126|incêndio explosão inundação desabamento art 250 art 251 art 252 gás tóxico
+5127|segurança meios de comunicação transporte atentado contra segurança de transporte arremesso de projétil
+5128|crimes contra a liberdade pessoal constrangimento ilegal ameaça sequestro
+5129|intimidação sistemática bullying Lei 13.185
+5130|ameaça art 147 perseguição stalking art 147-A constrangimento ilegal art 146
+5131|violência psicológica contra a mulher art 147-B
+5132|sequestro cárcere privado art 148 redução à condição análoga à de escravo art 149 tráfico de pessoas art 149-A
+5133|violação de domicílio art 150 inviolabilidade de correspondência segredo divulgação de segredo art 153 violação do segredo profissional
+5138|periclitação da vida e da saúde perigo abandono omissão de socorro maus-tratos
+5139|perigo de contágio venéreo moléstia grave art 130 art 131
+5140|perigo para a vida ou a saúde de outrem art 132 rixa art 137
+5141|abandono de incapaz art 133 exposição ou abandono de recém-nascido art 134
+5142|omissão de socorro art 135 deixar de prestar assistência
+5143|maus-tratos art 136
+5144|crimes contra a saúde pública paz pública epidemia envenenamento associação criminosa art 288 incitação ao crime apologia de crime
+5145|epidemia art 267 envenenamento de água potável art 270 falsificação de produto medicinal art 273 charlatanismo curandeirismo
+5146|incitação ao crime art 286 apologia de crime art 287 associação criminosa art 288 constituição de milícia privada
+5149|crimes contra a vida homicídio aborto infanticídio feminicídio induzimento suicídio
+5150|homicídio art 121 simples qualificado privilegiado culposo motivo torpe fútil causa de aumento
+5151|feminicídio art 121 § 2º VI condição de sexo feminino violência doméstica menosprezo
+5152|induzimento instigação auxílio ao suicídio art 122 automutilação
+5153|infanticídio art 123 influência do estado puerperal próprio filho nascente neonato
+5154|aborto art 124 art 125 art 126 art 128 aborto necessário sentimental gestante provocar
+5155|crimes contra o Estado Democrático de Direito Lei 14.197 14197 golpe de estado
+5156|crimes contra o funcionamento dos serviços essenciais
+5157|crimes contra o patrimônio furto roubo extorsão estelionato dano receptação
+5158|disposições gerais crimes contra o patrimônio imunidades absolutas relativas art 181 art 182 art 183 escusa absolutória
+5159|furto art 155 subtrair coisa alheia móvel repouso noturno furto qualificado privilegiado furto de uso
+5160|roubo art 157 roubo próprio impróprio latrocínio emprego de arma violência grave ameaça
+5161|extorsão art 158 sequestro relâmpago art 159 extorsão mediante sequestro
+5162|esbulho possessório invasão de terras art 161 §1º
+5163|usurpação alteração de limites supressão ou alteração de marca art 161 art 162
+5164|dano art 163 dano qualificado introdução ou abandono de animais
+5165|apropriação indébita art 168 apropriação de coisa havida por erro apropriação de tesouro apropriação indébita previdenciária
+5166|estelionato art 171 fraude artifício ardil induzir em erro vantagem ilícita estelionato previdenciário fraude eletrônica cheque sem fundos
+5167|abuso de incapazes art 173 induzimento à especulação duplicata simulada
+5168|fraude à execução art 179 fraude no comércio art 175
+5169|receptação art 180 adquirir receber transportar coisa produto de crime receptação culposa qualificada
+5170|introdução ao direito penal conceito princípios legalidade fontes
+5171|conceito fontes do direito penal princípio da reserva legal costume analogia
+5172|princípios do direito penal legalidade anterioridade lesividade intervenção mínima insignificância bagatela fragmentariedade culpabilidade proporcionalidade
+5173|interpretação da norma penal analogia in bonam partem interpretação extensiva interpretação analógica
+5174|classificação dos crimes crime comum próprio de mão própria formal material de mera conduta permanente instantâneo habitual
+5175|iter criminis cogitação preparação execução consumação tentativa
+5176|fases do iter criminis cogitação atos preparatórios atos de execução exaurimento
+5177|crime consumado art 14 tentado tentativa branca cruenta perfeita imperfeita redução de pena 1/3 a 2/3
+5178|desistência voluntária arrependimento eficaz art 15 arrependimento posterior art 16 reparação do dano
+5179|crime impossível tentativa inidônea art 17 ineficácia absoluta do meio impropriedade absoluta do objeto
+5180|lei penal no tempo e no espaço
+5181|lei penal no tempo abolitio criminis novatio legis in mellius in pejus retroatividade ultratividade tempus regit actum lei excepcional temporária art 2º art 3º
+5182|lei penal no espaço territorialidade extraterritorialidade art 5º art 6º art 7º lugar do crime ubiquidade
+5183|conflito aparente de normas especialidade subsidiariedade consunção alternatividade princípio da absorção antefato pós-fato impunível
+5184|medida de segurança inimputável semi-imputável internação tratamento ambulatorial periculosidade art 96 art 97
+5185|prescrição art 109 art 110 prescrição da pretensão punitiva executória
+5186|prescrição conceito fundamentos regras gerais imprescritibilidade redução pela metade menor de 21 maior de 70
+5187|prazo prescricional termo inicial causas interruptivas suspensivas art 111 art 116 art 117 recebimento da denúncia pronúncia
+5188|prescrição da pretensão punitiva em abstrato retroativa intercorrente pena em concreto trânsito em julgado para a acusação
+5189|prescrição da pretensão executória art 112 trânsito em julgado para ambas as partes fuga reincidência
+5190|prescrição da pena de multa penas restritivas de direitos 
+5191|extinção da punibilidade art 107 causas de extinção morte do agente anistia graça indulto
+5192|morte do agente art 107 I
+5193|anistia graça indulto comutação
+5194|abolitio criminis art 107 III
+5195|perempção ação penal privada
+5196|renúncia perdão do ofendido retratação do agente art 107
+5197|perdão judicial art 107 IX
+5198|decadência prazo de seis meses queixa representação art 103
+5199|pena sanção penal dosimetria penas privativas restritivas multa livramento condicional sursis
+5200|sanção penal conceito finalidade espécies de pena princípio da humanidade da pena
+5201|penas privativas de liberdade reclusão detenção regime inicial fechado semiaberto aberto progressão de regime art 33 art 34 art 35 art 36 detração art 42
+5202|circunstâncias judiciais art 59 culpabilidade antecedentes conduta social personalidade motivos circunstâncias consequências pena-base primeira fase
+5203|agravantes atenuantes art 61 art 65 reincidência confissão menoridade segunda fase concurso de agravantes
+5204|terceira fase causas de aumento diminuição majorantes minorantes
+5205|penas restritivas de direitos substituição art 43 art 44 prestação de serviços à comunidade prestação pecuniária limitação de fim de semana interdição temporária
+5206|pena de multa dias-multa art 49 art 50 art 51 valor do dia-multa
+5207|suspensão condicional da pena sursis art 77 art 78 art 79 art 80 período de prova
+5208|livramento condicional art 83 art 84 art 85 art 86 art 87 requisitos tempo cumprido revogação
+5209|efeitos da condenação art 91 art 92 perda de bens tornar certa a obrigação de indenizar perda do cargo reincidência
+5210|reabilitação criminal art 93 art 94 art 95 sigilo dos registros
+5211|culpabilidade imputabilidade potencial consciência da ilicitude exigibilidade de conduta diversa
+5212|conceito e elementos da culpabilidade teoria normativa pura finalista
+5213|inimputabilidade art 26 art 27 doença mental menoridade penal embriaguez art 28 desenvolvimento mental incompleto
+5214|erro de proibição art 21 erro sobre a ilicitude do fato inevitável evitável
+5215|coação moral irresistível art 22 inexigibilidade de conduta diversa
+5216|obediência hierárquica ordem não manifestamente ilegal
+5217|causas supralegais de exclusão da culpabilidade inexigibilidade de conduta diversa supralegal
+5218|fato típico conduta resultado nexo causal tipicidade dolo culpa
+5219|conceito de crime sujeito ativo passivo objeto material jurídico bem jurídico
+5220|fato típico elementos
+5221|conduta teoria causalista finalista social ação omissão voluntariedade caso fortuito força maior coação física
+5222|crime doloso culposo dolo direto eventual culpa consciente inconsciente imprudência negligência imperícia preterdoloso
+5223|crimes omissivos próprios impróprios comissivos por omissão garantidor art 13 § 2º omissão penalmente relevante
+5224|erro de tipo art 20 erro essencial acidental descriminantes putativas erro sobre a pessoa aberratio ictus aberratio delicti
+5225|resultado naturalístico normativo teoria
+5226|nexo causal causalidade teoria da equivalência dos antecedentes conditio sine qua non causa superveniente relativamente independente art 13 imputação objetiva risco permitido
+5227|tipicidade tipo penal elementos normativos descritivos adequação típica tipicidade conglobante princípio da insignificância
+5228|ilicitude antijuridicidade excludentes causas justificantes
+5229|conceito elementos ilicitude art 23 excesso punível doloso culposo
+5230|estado de necessidade art 24 perigo atual inevitável sacrifício de bem jurídico dever legal de enfrentar o perigo
+5231|legítima defesa art 25 agressão injusta atual iminente meios necessários moderadamente legítima defesa putativa sucessiva recíproca
+5232|estrito cumprimento do dever legal exercício regular de direito
+5233|consentimento do ofendido causas supralegais de exclusão da ilicitude
+6716|abuso de autoridade Lei 13.869
+6717|crimes contra o meio ambiente Lei 9.605
+6722|Estatuto do Idoso crimes Lei 10.741
+6723|lavagem de dinheiro Lei 9.613
+6724|Lei Maria da Penha Lei 11.340
+6725|organizações criminosas Lei 12.850
+6726|teoria da pena parte 1 dosimetria penas
+6727|teoria da pena parte 2 dosimetria penas
+6728|tráfico de drogas Lei 11.343
+## Processo Penal
+5466|ação penal denúncia queixa condições da ação legitimidade interesse justa causa
+5467|condições da ação penal possibilidade jurídica legitimidade interesse justa causa
+5468|classificação ação penal pública privada condenatória declaratória constitutiva
+5469|princípios da ação penal obrigatoriedade indisponibilidade oficialidade indivisibilidade intranscendência
+5470|ação penal pública incondicionada Ministério Público denúncia princípio da obrigatoriedade
+5471|ação penal pública condicionada representação requisição do Ministro da Justiça retratação
+5472|ação penal privada queixa-crime querelante prazo decadencial seis meses subsidiária da pública perempção
+5473|denúncia requisitos art 41 rejeição art 395 aditamento Ministério Público
+5474|queixa-crime requisitos querelante querelado procuração poderes especiais
+5475|ação civil ex delicto reparação do dano art 63 art 64 título executivo judicial
+5476|habeas corpus revisão criminal mandado de segurança ações autônomas de impugnação
+5477|habeas corpus liberdade de locomoção ilegalidade coação constrangimento paciente impetrante liminar
+5478|revisão criminal sentença condenatória transitada em julgado art 621 art 622 condenado
+5479|mandado de segurança direito líquido e certo ato de autoridade
+5480|competência juízo foro territorial matéria prerrogativa de função conexão continência
+5481|competência fixação espécies conexão continência prevenção art 69 art 76 art 77 art 78 art 79 unidade de processo e julgamento
+5482|competência em razão da matéria Justiça Federal Justiça Estadual Justiça Militar eleitoral crimes federais art 109 CF
+5483|competência territorial lugar da infração domicílio do réu art 70 art 72 art 73 consumação
+5484|competência por prerrogativa de função foro privilegiado STF STJ Tribunal de Justiça autoridades art 102 art 105
+5485|competência de juízo vara especializada juiz singular colegiado
+5486|prorrogação perpetuação modificação de competência perpetuatio jurisdictionis desaforamento
+5487|comunicação dos atos processuais citação intimação notificação prazos
+5488|citação por mandado por edital por hora certa por carta precatória revelia art 351 art 363 art 366 suspensão do processo
+5489|intimação notificação publicação prazos contagem art 798
+5490|questões e processos incidentes exceções questões prejudiciais restituição de coisas apreendidas medidas assecuratórias incidente
+5491|questões prejudiciais preliminares art 92 art 93 art 94 suspensão do processo
+5492|exceção de suspeição impedimento incompatibilidade juiz art 252 art 254 art 112
+5493|exceção de incompetência ilegitimidade de parte art 108 art 109
+5494|exceção de litispendência coisa julgada art 110 art 111
+5495|restituição de coisas apreendidas art 118 art 119 art 120 art 121
+5496|medidas assecuratórias sequestro hipoteca legal arresto art 125 art 134 art 136 bens do indiciado
+5497|incidente de falsidade documental insanidade mental do acusado art 149 exame
+5498|inquérito policial polícia judiciária investigação delegado indiciamento arquivamento
+5499|inquérito policial conceito características inquisitivo sigiloso dispensável discricionário oficiosidade
+5500|procedimento do inquérito policial instauração notitia criminis portaria auto de prisão em flagrante prazo 10 dias 30 dias indiciado
+5501|conclusão arquivamento do inquérito policial relatório art 28 requisição de diligências desarquivamento art 18
+5502|acordo de não persecução penal ANPP art 28-A confissão pena mínima inferior a 4 anos
+5503|juiz das garantias art 3º-A art 3º-B Lei 13.964 pacote anticrime controle da legalidade da investigação
+5504|inquérito civil Ministério Público
+5505|lei processual penal no tempo e no espaço princípio da aplicação imediata tempus regit actum territorialidade art 1º art 2º
+5506|lei processual no espaço territorialidade art 1º CPP
+5507|lei processual no tempo aplicação imediata tempus regit actum normas mistas
+5508|interpretação da lei processual penal analogia interpretação extensiva art 3º CPP
+5509|nulidades art 563 art 564 art 565 art 566 art 572 princípio do prejuízo pas de nullité sans grief
+5510|nulidade absoluta relativa prejuízo preclusão convalidação súmula 523
+5511|nulidades em espécie art 564 incompetência ilegitimidade falta de denúncia ausência de defesa
+5512|recursos teoria geral pressupostos efeitos classificação
+5513|princípios recursais duplo grau de jurisdição taxatividade singularidade unirrecorribilidade fungibilidade art 579 voluntariedade complementariedade
+5514|pressupostos de admissibilidade recursal cabimento legitimidade interesse tempestividade preparo regularidade formal
+5515|efeito devolutivo suspensivo regressivo extensivo reformatio in pejus proibição
+5516|classificação dos recursos ordinários extraordinários voluntários necessários totais parciais
+5517|prisão em espécie flagrante preventiva temporária domiciliar liberdade provisória cautelares
+5518|prisão em flagrante art 301 art 302 art 303 flagrante próprio impróprio presumido preparado esperado forjado prorrogado retardado audiência de custódia
+5519|prisão preventiva art 311 art 312 art 313 art 315 fumus commissi delicti periculum libertatis garantia da ordem pública conveniência da instrução aplicação da lei penal
+5520|prisão temporária Lei 7.960 7960 prazo cinco dias trinta dias crimes hediondos investigação
+5521|prisão domiciliar art 317 art 318 gestante mãe de criança até 12 anos maior de 80 anos imprescindível cuidados
+5522|medidas cautelares diversas da prisão art 319 monitoração eletrônica fiança comparecimento periódico proibição de acesso recolhimento domiciliar noturno
+5523|liberdade provisória fiança art 321 art 322 art 323 art 324 sem fiança vinculada
+5524|tribunal do júri júri pronúncia plenário jurados quesitos dolosos contra a vida
+5525|princípios constitucionais do júri plenitude de defesa sigilo das votações soberania dos veredictos competência crimes dolosos contra a vida art 5º XXXVIII
+5526|procedimento bifásico do júri judicium accusationis judicium causae
+5527|pronúncia impronúncia desclassificação absolvição sumária art 413 art 414 art 415 art 419 preclusão recurso em sentido estrito
+5528|organização do júri sessão de julgamento jurados sorteio recusas peremptórias art 447 art 448 art 449 art 457 plenário debates quesitação
+5529|sentença do júri quesitos art 483 votação sala secreta absolvição genérica
+5530|procedimento comum ordinário sumário sumaríssimo audiência de instrução oferecimento da denúncia resposta à acusação absolvição sumária art 396 art 397 art 399 art 400
+5531|oferecimento rejeição recebimento da denúncia queixa art 395 art 396 inépcia manifesta
+5532|classificação dos procedimentos comum especial ordinário sumário sumaríssimo
+5533|defesa preliminar resposta à acusação art 396-A defensor dativo prazo 10 dias
+5534|absolvição sumária art 397 excludente de ilicitude culpabilidade fato atípico extinção da punibilidade
+5535|audiência de instrução e julgamento art 400 ordem de oitiva do ofendido testemunhas peritos acareação interrogatório princípio da identidade física do juiz
+5536|alegações orais memoriais art 403 debates
+5537|sentença art 381 art 387 art 399 art 400 princípio da identidade física do juiz
+5538|procedimento sumário art 531 art 532 art 533 art 534 pena inferior a 4 anos
+5539|procedimento sumaríssimo juizados especiais criminais Lei 9.099
+5540|competência dos juizados especiais criminais infração de menor potencial ofensivo pena máxima não superior a 2 anos
+5541|transação penal art 76 Lei 9.099 proposta pena restritiva multa não importa reincidência
+5542|suspensão condicional do processo art 89 Lei 9.099 sursis processual pena mínima igual ou inferior a um ano período de prova
+5543|provas em espécie perícia testemunha confissão interrogatório documento reconhecimento busca e apreensão
+5544|cadeia de custódia art 158-A art 158-B Lei 13.964 vestígio coleta preservação
+5545|exame de corpo de delito art 158 art 159 direto indireto perícia oficial
+5546|perícia peritos oficiais assistente técnico laudo art 159 art 160 art 182
+5547|interrogatório judicial art 185 art 186 direito ao silêncio nemo tenetur autodefesa videoconferência
+5548|confissão art 197 art 198 retratável divisível valor probatório
+5549|declarações do ofendido art 201 palavra da vítima
+5550|prova testemunhal testemunha art 202 art 203 art 204 art 206 compromisso depoimento
+5551|reconhecimento de pessoas e coisas art 226 art 228 formalidades fotográfico
+5552|acareação art 229 art 230 divergência
+5553|prova documental documentos art 231 art 232 art 233 art 234 cartas
+5554|busca e apreensão art 240 art 241 art 242 art 243 mandado domiciliar domicílio dia noite consentimento
+5555|interceptação telefônica Lei 9.296 quebra de sigilo de dados telefônicos autorização judicial
+5556|captação ambiental gravação ambiental
+5557|colaboração premiada delação premiada Lei 12.850 acordo de colaboração
+5558|ação controlada flagrante retardado Lei 12.850
+5559|infiltração de agentes policial infiltrado
+5560|recursos em espécies apelação recurso em sentido estrito embargos agravo carta testemunhável recurso especial extraordinário
+5561|recurso em sentido estrito RESE art 581 art 582 efeito regressivo juízo de retratação cabimento
+5562|apelação art 593 art 600 art 601 prazo cinco dias razões 
+5563|protesto por novo júri extinto Lei 11.689
+5564|embargos infringentes e de nulidade art 609 parágrafo único voto vencido favorável ao réu
+5565|embargos de declaração art 619 art 620 omissão ambiguidade obscuridade contradição
+5566|agravo em execução art 197 LEP
+5567|carta testemunhável art 639 art 640 art 641 denegação ou não-processamento de recurso
+5568|correição parcial reclamação error in procedendo
+5569|recursos no âmbito dos juizados especiais turma recursal apelação art 82 Lei 9.099
+5570|recurso extraordinário repercussão geral STF art 102 III CF Súmula 
+5571|recurso especial STJ art 105 III CF prequestionamento
+5572|sentença penal absolutória condenatória art 381 art 386 art 387 art 383 art 384
+5573|classificação dos provimentos judiciais decisões interlocutórias sentença definitiva
+5574|sentença absolutória art 386 incisos absolvição fundamentos medida de segurança imprópria
+5575|sentença condenatória art 387 art 381 fixação de pena regime dano mínimo
+5576|fixação da pena e do regime penitenciário art 387 detração
+5577|efeitos decorrentes da sentença penal condenatória art 91 CP art 387 IV título executivo reparação
+5578|princípio da correlação entre acusação e sentença congruência art 383 art 384
+5579|emendatio libelli mutatio libelli art 383 art 384 nova definição jurídica aditamento
+5580|sistemas e princípios processuais penais acusatório inquisitivo misto devido processo legal contraditório ampla defesa presunção de inocência
+5581|sistema acusatório inquisitório misto inquisitivo gestão da prova
+5582|princípios do processo penal contraditório ampla defesa presunção de inocência juiz natural duração razoável verdade real publicidade
+5583|sujeitos do processo juiz Ministério Público acusado defensor assistente de acusação auxiliares da justiça peritos intérpretes
+5584|teoria geral das prisões prisão cautelar prisão pena prisão civil mandado de prisão relaxamento custódia
+5585|conceitos espécies de prisão prisão pena prisão processual
+5586|imunidades prisionais prisões especiais prisão especial diplomatas parlamentares advogados art 295 art 296
+5587|direitos e garantias sobre a prisão identificação dos responsáveis comunicação da prisão direito ao silêncio nota de culpa
+5588|relaxamento da prisão ilegalidade da prisão
+5589|audiência de custódia 24 horas apresentação do preso art 310 Resolução 213 CNJ
+5590|teoria geral das provas objeto ônus finalidade sistemas de apreciação provas ilícitas
+5591|finalidade sujeitos ônus da prova art 156 objeto da prova fatos notórios presunções
+5592|sistemas de avaliação da prova livre convencimento motivado prova tarifada íntima convicção persuasão racional
+5593|prova emprestada
+5594|prova ilícita ilegítima derivada teoria dos frutos da árvore envenenada fonte independente descoberta inevitável art 157 inutilização desentranhamento
+5595|princípios relativos à prova penal contraditório comunhão da prova liberdade probatória oralidade inadmissibilidade das provas ilícitas
+6734|lei de execução penal execução da pena progressão remição saída temporária falta grave regime disciplinar diferenciado

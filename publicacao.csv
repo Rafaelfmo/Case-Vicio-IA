@@ -1,0 +1,660 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,publicar,5465,,0.999935,
+Q0002,revisar,5062,,0.396653,abaixo do limiar OOF ou ambígua
+Q0003,revisar,5465,,0.8394,abaixo do limiar OOF ou ambígua
+Q0004,revisar,5465,,0.966519,abaixo do limiar OOF ou ambígua
+Q0005,revisar,5062,,0.564045,abaixo do limiar OOF ou ambígua
+Q0006,revisar,5062,,0.977659,abaixo do limiar OOF ou ambígua
+Q0007,revisar,5062,,0.702994,abaixo do limiar OOF ou ambígua
+Q0008,publicar,5062,,0.995302,
+Q0009,publicar,5062,,0.997252,
+Q0010,revisar,5062,,0.843078,abaixo do limiar OOF ou ambígua
+Q0011,revisar,4683,,0.422285,abaixo do limiar OOF ou ambígua
+Q0012,revisar,5465,,0.976035,abaixo do limiar OOF ou ambígua
+Q0013,publicar,5465,,0.99996,
+Q0014,revisar,5465,,0.944319,abaixo do limiar OOF ou ambígua
+Q0015,publicar,5465,,0.997137,
+Q0016,revisar,5465,,0.899692,abaixo do limiar OOF ou ambígua
+Q0017,revisar,5062,,0.528141,abaixo do limiar OOF ou ambígua
+Q0018,revisar,5465,,0.939893,abaixo do limiar OOF ou ambígua
+Q0019,publicar,5465,,0.999608,
+Q0020,revisar,5465,,0.48135,abaixo do limiar OOF ou ambígua
+Q0021,publicar,5465,,0.997926,
+Q0022,publicar,5062,,0.999917,
+Q0023,publicar,5465,,0.995285,
+Q0024,publicar,4365,,0.999583,
+Q0025,publicar,5062,,0.993905,
+Q0026,revisar,5062,,0.846264,abaixo do limiar OOF ou ambígua
+Q0027,revisar,5465,,0.904871,abaixo do limiar OOF ou ambígua
+Q0028,publicar,5465,,0.983636,
+Q0029,revisar,5062,,0.976613,abaixo do limiar OOF ou ambígua
+Q0030,publicar,5062,,0.994516,
+Q0031,publicar,4365,,0.981849,
+Q0032,revisar,5465,,0.919254,abaixo do limiar OOF ou ambígua
+Q0033,publicar,5465,,0.994557,
+Q0034,publicar,5465,,0.999845,
+Q0035,publicar,4683,,0.998253,
+Q0036,revisar,5465,,0.680671,abaixo do limiar OOF ou ambígua
+Q0037,publicar,5062,,0.998342,
+Q0038,revisar,5465,,0.916579,abaixo do limiar OOF ou ambígua
+Q0039,revisar,4683,,0.972017,abaixo do limiar OOF ou ambígua
+Q0040,revisar,5465,,0.976296,abaixo do limiar OOF ou ambígua
+Q0041,publicar,5062,,0.982622,
+Q0042,revisar,5062,,0.832795,abaixo do limiar OOF ou ambígua
+Q0043,revisar,5062,,0.892235,abaixo do limiar OOF ou ambígua
+Q0044,revisar,5062,,0.532474,abaixo do limiar OOF ou ambígua
+Q0045,publicar,5062,,0.999718,
+Q0046,publicar,5465,,0.999721,
+Q0047,revisar,5062,,0.839404,abaixo do limiar OOF ou ambígua
+Q0048,revisar,5062,,0.757794,abaixo do limiar OOF ou ambígua
+Q0049,publicar,5062,,0.999992,
+Q0050,revisar,5465,,0.948507,abaixo do limiar OOF ou ambígua
+Q0051,revisar,5062,,0.587544,abaixo do limiar OOF ou ambígua
+Q0052,revisar,5062,,0.647428,abaixo do limiar OOF ou ambígua
+Q0053,revisar,5465,,0.967074,abaixo do limiar OOF ou ambígua
+Q0054,revisar,5062,,0.579277,abaixo do limiar OOF ou ambígua
+Q0055,revisar,5465,,0.961883,abaixo do limiar OOF ou ambígua
+Q0056,revisar,5062,,0.959298,abaixo do limiar OOF ou ambígua
+Q0057,publicar,5062,,1.0,
+Q0058,revisar,4365,,0.652176,abaixo do limiar OOF ou ambígua
+Q0059,revisar,5062,,0.545215,abaixo do limiar OOF ou ambígua
+Q0060,publicar,5062,,0.999893,
+Q0061,revisar,5465,,0.79577,abaixo do limiar OOF ou ambígua
+Q0062,revisar,5465,,0.487971,abaixo do limiar OOF ou ambígua
+Q0063,revisar,5465,,0.753073,abaixo do limiar OOF ou ambígua
+Q0064,revisar,5062,,0.837569,abaixo do limiar OOF ou ambígua
+Q0065,publicar,5062,,0.999876,
+Q0066,publicar,4365,,0.985921,
+Q0067,publicar,5062,,0.999782,
+Q0068,revisar,5062,,0.831175,abaixo do limiar OOF ou ambígua
+Q0069,revisar,5465,,0.671739,abaixo do limiar OOF ou ambígua
+Q0070,revisar,5062,,0.679943,abaixo do limiar OOF ou ambígua
+Q0071,revisar,5062,,0.69646,abaixo do limiar OOF ou ambígua
+Q0072,revisar,5465,,0.78916,abaixo do limiar OOF ou ambígua
+Q0073,publicar,5062,,0.999562,
+Q0074,revisar,5062,,0.60516,abaixo do limiar OOF ou ambígua
+Q0075,publicar,5062,,0.985509,
+Q0076,publicar,4365,,0.999889,
+Q0077,revisar,5062,,0.805925,abaixo do limiar OOF ou ambígua
+Q0078,revisar,5062,,0.486574,abaixo do limiar OOF ou ambígua
+Q0079,publicar,5465,,0.996772,
+Q0080,publicar,4365,,0.999999,
+Q0081,publicar,4365,,0.999911,
+Q0082,revisar,5062,,0.880758,abaixo do limiar OOF ou ambígua
+Q0083,publicar,5062,,0.996398,
+Q0084,revisar,4683,,0.807843,abaixo do limiar OOF ou ambígua
+Q0085,publicar,5062,,0.999896,
+Q0086,revisar,5062,,0.930504,abaixo do limiar OOF ou ambígua
+Q0087,publicar,5465,,0.981287,
+Q0088,publicar,4365,,1.0,
+Q0089,revisar,5062,,0.717222,abaixo do limiar OOF ou ambígua
+Q0090,revisar,5465,,0.961458,abaixo do limiar OOF ou ambígua
+Q0091,revisar,5062,,0.851054,abaixo do limiar OOF ou ambígua
+Q0092,revisar,5465,,0.961417,abaixo do limiar OOF ou ambígua
+Q0093,revisar,5062,,0.947594,abaixo do limiar OOF ou ambígua
+Q0094,publicar,4365,,0.996714,
+Q0095,revisar,5062,,0.777289,abaixo do limiar OOF ou ambígua
+Q0096,publicar,5465,,0.99962,
+Q0097,revisar,4683,,0.541567,abaixo do limiar OOF ou ambígua
+Q0098,revisar,5465,,0.968487,abaixo do limiar OOF ou ambígua
+Q0099,revisar,5062,,0.810593,abaixo do limiar OOF ou ambígua
+Q0100,publicar,5062,,0.996447,
+Q0101,revisar,4683,,0.965651,abaixo do limiar OOF ou ambígua
+Q0102,revisar,5465,,0.88962,abaixo do limiar OOF ou ambígua
+Q0103,publicar,5465,,0.981761,
+Q0104,publicar,5465,,0.998251,
+Q0105,revisar,4365,,0.922608,abaixo do limiar OOF ou ambígua
+Q0106,revisar,5062,,0.697514,abaixo do limiar OOF ou ambígua
+Q0107,revisar,5062,,0.659625,abaixo do limiar OOF ou ambígua
+Q0108,revisar,5465,,0.788994,abaixo do limiar OOF ou ambígua
+Q0109,revisar,5062,,0.784203,abaixo do limiar OOF ou ambígua
+Q0110,revisar,5465,,0.920021,abaixo do limiar OOF ou ambígua
+Q0111,publicar,4365,,0.996146,
+Q0112,revisar,5062,,0.894522,abaixo do limiar OOF ou ambígua
+Q0113,revisar,5062,,0.880923,abaixo do limiar OOF ou ambígua
+Q0114,revisar,5465,,0.651455,abaixo do limiar OOF ou ambígua
+Q0115,revisar,5062,,0.620965,abaixo do limiar OOF ou ambígua
+Q0116,revisar,4683,,0.737243,abaixo do limiar OOF ou ambígua
+Q0117,revisar,5062,,0.769076,abaixo do limiar OOF ou ambígua
+Q0118,revisar,5465,,0.890818,abaixo do limiar OOF ou ambígua
+Q0119,revisar,5465,,0.645188,abaixo do limiar OOF ou ambígua
+Q0120,publicar,5465,,0.995215,
+Q0121,revisar,5465,,0.848542,abaixo do limiar OOF ou ambígua
+Q0122,revisar,5062,,0.960792,abaixo do limiar OOF ou ambígua
+Q0123,revisar,4365,,0.337744,abaixo do limiar OOF ou ambígua
+Q0124,revisar,5062,,0.68382,abaixo do limiar OOF ou ambígua
+Q0125,revisar,5465,,0.701574,abaixo do limiar OOF ou ambígua
+Q0126,revisar,5062,,0.70224,abaixo do limiar OOF ou ambígua
+Q0127,revisar,5465,,0.965282,abaixo do limiar OOF ou ambígua
+Q0128,revisar,5062,,0.589246,abaixo do limiar OOF ou ambígua
+Q0129,revisar,5465,,0.941193,abaixo do limiar OOF ou ambígua
+Q0130,revisar,5062,,0.877031,abaixo do limiar OOF ou ambígua
+Q0131,revisar,5062,,0.934921,abaixo do limiar OOF ou ambígua
+Q0132,revisar,5465,,0.811801,abaixo do limiar OOF ou ambígua
+Q0133,publicar,5465,,0.997645,
+Q0134,revisar,5062,,0.752662,abaixo do limiar OOF ou ambígua
+Q0135,revisar,5062,,0.950786,abaixo do limiar OOF ou ambígua
+Q0136,revisar,5062,,0.873071,abaixo do limiar OOF ou ambígua
+Q0137,publicar,5465,,0.98408,
+Q0138,publicar,5062,,0.997066,
+Q0139,publicar,5062,,0.99998,
+Q0140,revisar,5062,,0.696525,abaixo do limiar OOF ou ambígua
+Q0141,publicar,4365,,0.987829,
+Q0142,revisar,5062,,0.574613,abaixo do limiar OOF ou ambígua
+Q0143,publicar,5465,,0.999811,
+Q0144,publicar,5465,,0.994694,
+Q0145,revisar,4683,,0.949476,abaixo do limiar OOF ou ambígua
+Q0146,revisar,5465,,0.594722,abaixo do limiar OOF ou ambígua
+Q0147,revisar,5465,,0.948053,abaixo do limiar OOF ou ambígua
+Q0148,publicar,5062,,0.999995,
+Q0149,revisar,5465,,0.712767,abaixo do limiar OOF ou ambígua
+Q0150,revisar,5062,,0.640033,abaixo do limiar OOF ou ambígua
+Q0151,publicar,5465,,0.999882,
+Q0152,revisar,5465,,0.886885,abaixo do limiar OOF ou ambígua
+Q0153,revisar,5062,,0.604316,abaixo do limiar OOF ou ambígua
+Q0154,revisar,5062,,0.919668,abaixo do limiar OOF ou ambígua
+Q0155,revisar,5465,,0.731841,abaixo do limiar OOF ou ambígua
+Q0156,revisar,5062,,0.87255,abaixo do limiar OOF ou ambígua
+Q0157,publicar,5465,,0.9929,
+Q0158,revisar,5062,,0.853572,abaixo do limiar OOF ou ambígua
+Q0159,revisar,5062,,0.916078,abaixo do limiar OOF ou ambígua
+Q0160,revisar,5062,,0.95796,abaixo do limiar OOF ou ambígua
+Q0161,revisar,5465,,0.909848,abaixo do limiar OOF ou ambígua
+Q0162,revisar,4365,,0.886732,abaixo do limiar OOF ou ambígua
+Q0163,revisar,4683,,0.619785,abaixo do limiar OOF ou ambígua
+Q0164,revisar,5465,,0.708089,abaixo do limiar OOF ou ambígua
+Q0165,revisar,4683,,0.564745,abaixo do limiar OOF ou ambígua
+Q0166,revisar,5062,,0.507373,abaixo do limiar OOF ou ambígua
+Q0167,revisar,5465,,0.867114,abaixo do limiar OOF ou ambígua
+Q0168,revisar,5062,,0.873214,abaixo do limiar OOF ou ambígua
+Q0169,publicar,5465,,0.996936,
+Q0170,revisar,5062,,0.796629,abaixo do limiar OOF ou ambígua
+Q0171,revisar,5062,,0.748271,abaixo do limiar OOF ou ambígua
+Q0172,revisar,5062,,0.655734,abaixo do limiar OOF ou ambígua
+Q0173,revisar,5465,,0.649836,abaixo do limiar OOF ou ambígua
+Q0174,revisar,5062,,0.716253,abaixo do limiar OOF ou ambígua
+Q0175,publicar,5062,,0.985997,
+Q0176,publicar,5062,,0.999983,
+Q0177,revisar,5465,,0.915718,abaixo do limiar OOF ou ambígua
+Q0178,revisar,5465,,0.381048,abaixo do limiar OOF ou ambígua
+Q0179,revisar,4365,,0.865358,abaixo do limiar OOF ou ambígua
+Q0180,revisar,5465,,0.884557,abaixo do limiar OOF ou ambígua
+Q0181,revisar,5062,,0.566433,abaixo do limiar OOF ou ambígua
+Q0182,revisar,5062,,0.940266,abaixo do limiar OOF ou ambígua
+Q0183,revisar,5062,,0.766983,abaixo do limiar OOF ou ambígua
+Q0184,revisar,5465,,0.930576,abaixo do limiar OOF ou ambígua
+Q0185,revisar,5465,,0.701564,abaixo do limiar OOF ou ambígua
+Q0186,publicar,5062,,1.0,
+Q0187,revisar,5062,,0.800367,abaixo do limiar OOF ou ambígua
+Q0188,revisar,5062,,0.855401,abaixo do limiar OOF ou ambígua
+Q0189,revisar,5465,,0.722922,abaixo do limiar OOF ou ambígua
+Q0190,revisar,5465,,0.929817,abaixo do limiar OOF ou ambígua
+Q0191,publicar,5465,,0.999703,
+Q0192,publicar,5062,,0.995545,
+Q0193,publicar,5465,,0.998078,
+Q0194,publicar,5062,,0.999144,
+Q0195,revisar,4365,,0.976877,abaixo do limiar OOF ou ambígua
+Q0196,publicar,4365,,0.999363,
+Q0197,revisar,5465,,0.97497,abaixo do limiar OOF ou ambígua
+Q0198,revisar,5062,,0.908904,abaixo do limiar OOF ou ambígua
+Q0199,publicar,5062,,0.987945,
+Q0200,revisar,5062,,0.797662,abaixo do limiar OOF ou ambígua
+Q0201,publicar,5062,,0.999926,
+Q0202,revisar,5062,,0.877163,abaixo do limiar OOF ou ambígua
+Q0203,revisar,5062,,0.903846,abaixo do limiar OOF ou ambígua
+Q0204,publicar,5465,,0.999868,
+Q0205,revisar,5465,,0.965917,abaixo do limiar OOF ou ambígua
+Q0206,revisar,5465,,0.93561,abaixo do limiar OOF ou ambígua
+Q0207,revisar,5062,,0.519186,abaixo do limiar OOF ou ambígua
+Q0208,revisar,5062,,0.918757,abaixo do limiar OOF ou ambígua
+Q0209,revisar,5465,,0.930994,abaixo do limiar OOF ou ambígua
+Q0210,publicar,4683,,0.99352,
+Q0211,revisar,5465,,0.942025,abaixo do limiar OOF ou ambígua
+Q0212,revisar,5465,,0.979273,abaixo do limiar OOF ou ambígua
+Q0213,revisar,5465,,0.637451,abaixo do limiar OOF ou ambígua
+Q0214,revisar,5062,,0.765147,abaixo do limiar OOF ou ambígua
+Q0215,revisar,5062,,0.538881,abaixo do limiar OOF ou ambígua
+Q0216,revisar,5465,,0.47562,abaixo do limiar OOF ou ambígua
+Q0217,revisar,5062,,0.602126,abaixo do limiar OOF ou ambígua
+Q0218,revisar,5465,,0.97615,abaixo do limiar OOF ou ambígua
+Q0219,revisar,5062,,0.626183,abaixo do limiar OOF ou ambígua
+Q0220,publicar,5465,,0.99816,
+Q0221,revisar,5062,,0.927043,abaixo do limiar OOF ou ambígua
+Q0222,revisar,4365,,0.697216,abaixo do limiar OOF ou ambígua
+Q0223,publicar,5062,,0.996151,
+Q0224,revisar,5062,,0.718627,abaixo do limiar OOF ou ambígua
+Q0225,revisar,5465,,0.96431,abaixo do limiar OOF ou ambígua
+Q0226,revisar,5465,,0.941809,abaixo do limiar OOF ou ambígua
+Q0227,publicar,5062,,0.990278,
+Q0228,revisar,5062,,0.798184,abaixo do limiar OOF ou ambígua
+Q0229,publicar,5465,,0.989028,
+Q0230,revisar,5062,,0.944836,abaixo do limiar OOF ou ambígua
+Q0231,revisar,5062,,0.976662,abaixo do limiar OOF ou ambígua
+Q0232,publicar,5062,,0.99934,
+Q0233,publicar,5062,,0.999999,
+Q0234,publicar,4365,,0.999929,
+Q0235,publicar,5465,,0.994976,
+Q0236,revisar,5465,,0.951662,abaixo do limiar OOF ou ambígua
+Q0237,publicar,5062,,1.0,
+Q0238,revisar,5465,,0.964595,abaixo do limiar OOF ou ambígua
+Q0239,revisar,5062,,0.843979,abaixo do limiar OOF ou ambígua
+Q0240,revisar,5465,,0.843272,abaixo do limiar OOF ou ambígua
+Q0241,publicar,5062,,0.999984,
+Q0242,publicar,5465,,0.999061,
+Q0243,publicar,5062,,0.999988,
+Q0244,publicar,5062,,0.999318,
+Q0245,publicar,5062,,0.994255,
+Q0246,publicar,5465,,0.998753,
+Q0247,publicar,5465,,0.999466,
+Q0248,publicar,5062,,0.999759,
+Q0249,revisar,5465,,0.722357,abaixo do limiar OOF ou ambígua
+Q0250,revisar,5062,,0.741103,abaixo do limiar OOF ou ambígua
+Q0251,publicar,5062,,0.999825,
+Q0252,publicar,5062,,0.996607,
+Q0253,revisar,4365,,0.918351,abaixo do limiar OOF ou ambígua
+Q0254,revisar,5465,,0.569268,abaixo do limiar OOF ou ambígua
+Q0255,publicar,5062,,0.997677,
+Q0256,revisar,5062,,0.809793,abaixo do limiar OOF ou ambígua
+Q0257,revisar,5062,,0.937053,abaixo do limiar OOF ou ambígua
+Q0258,publicar,5465,,0.999908,
+Q0259,revisar,5062,,0.704905,abaixo do limiar OOF ou ambígua
+Q0260,revisar,4365,,0.882647,abaixo do limiar OOF ou ambígua
+Q0261,revisar,5465,,0.677277,abaixo do limiar OOF ou ambígua
+Q0262,revisar,5062,,0.595916,abaixo do limiar OOF ou ambígua
+Q0263,revisar,5465,,0.581634,abaixo do limiar OOF ou ambígua
+Q0264,publicar,5062,,0.999999,
+Q0265,publicar,5062,,0.999889,
+Q0266,revisar,5465,,0.86519,abaixo do limiar OOF ou ambígua
+Q0267,revisar,5062,,0.56042,abaixo do limiar OOF ou ambígua
+Q0268,publicar,5062,,0.990201,
+Q0269,revisar,5465,,0.590419,abaixo do limiar OOF ou ambígua
+Q0270,revisar,5062,,0.909939,abaixo do limiar OOF ou ambígua
+Q0271,publicar,5465,,0.997409,
+Q0272,revisar,5465,,0.78976,abaixo do limiar OOF ou ambígua
+Q0273,publicar,5062,,0.980792,
+Q0274,publicar,5062,,0.989281,
+Q0275,revisar,4683,,0.827451,abaixo do limiar OOF ou ambígua
+Q0276,publicar,5465,,0.994213,
+Q0277,revisar,5062,,0.785767,abaixo do limiar OOF ou ambígua
+Q0278,revisar,5465,,0.813203,abaixo do limiar OOF ou ambígua
+Q0279,revisar,5062,,0.758387,abaixo do limiar OOF ou ambígua
+Q0280,revisar,5062,,0.872571,abaixo do limiar OOF ou ambígua
+Q0281,revisar,5465,,0.977803,abaixo do limiar OOF ou ambígua
+Q0282,revisar,4683,,0.692087,abaixo do limiar OOF ou ambígua
+Q0283,revisar,5465,,0.935178,abaixo do limiar OOF ou ambígua
+Q0284,revisar,5465,,0.531967,abaixo do limiar OOF ou ambígua
+Q0285,revisar,4365,,0.956924,abaixo do limiar OOF ou ambígua
+Q0286,revisar,5062,,0.93189,abaixo do limiar OOF ou ambígua
+Q0287,publicar,5062,,0.999782,
+Q0288,revisar,5062,,0.957032,abaixo do limiar OOF ou ambígua
+Q0289,revisar,4683,,0.935819,abaixo do limiar OOF ou ambígua
+Q0290,revisar,5465,,0.692573,abaixo do limiar OOF ou ambígua
+Q0291,revisar,5465,,0.872759,abaixo do limiar OOF ou ambígua
+Q0292,revisar,5465,,0.451333,abaixo do limiar OOF ou ambígua
+Q0293,revisar,5062,,0.95839,abaixo do limiar OOF ou ambígua
+Q0294,publicar,5062,,0.999936,
+Q0295,publicar,5465,,0.9982,
+Q0296,revisar,5465,,0.892311,abaixo do limiar OOF ou ambígua
+Q0297,revisar,4683,,0.810289,abaixo do limiar OOF ou ambígua
+Q0298,revisar,5062,,0.60537,abaixo do limiar OOF ou ambígua
+Q0299,revisar,4365,,0.961352,abaixo do limiar OOF ou ambígua
+Q0300,publicar,5062,,0.999219,
+Q0301,revisar,5062,,0.570693,abaixo do limiar OOF ou ambígua
+Q0302,revisar,5062,,0.971215,abaixo do limiar OOF ou ambígua
+Q0303,revisar,5062,,0.67332,abaixo do limiar OOF ou ambígua
+Q0304,publicar,5465,,0.98186,
+Q0305,revisar,5465,,0.567403,abaixo do limiar OOF ou ambígua
+Q0306,revisar,5062,,0.405176,abaixo do limiar OOF ou ambígua
+Q0307,revisar,5465,,0.702964,abaixo do limiar OOF ou ambígua
+Q0308,revisar,5465,,0.874667,abaixo do limiar OOF ou ambígua
+Q0309,revisar,5062,,0.719643,abaixo do limiar OOF ou ambígua
+Q0310,revisar,5465,,0.972783,abaixo do limiar OOF ou ambígua
+Q0311,publicar,5465,,0.988608,
+Q0312,revisar,5062,,0.883342,abaixo do limiar OOF ou ambígua
+Q0313,revisar,5465,,0.911154,abaixo do limiar OOF ou ambígua
+Q0314,publicar,5465,,0.999947,
+Q0315,revisar,5062,,0.901318,abaixo do limiar OOF ou ambígua
+Q0316,revisar,5062,,0.833833,abaixo do limiar OOF ou ambígua
+Q0317,revisar,5062,,0.86271,abaixo do limiar OOF ou ambígua
+Q0318,publicar,5062,,0.996727,
+Q0319,publicar,5062,,0.998265,
+Q0320,revisar,5465,,0.75351,abaixo do limiar OOF ou ambígua
+Q0321,publicar,5062,,0.999964,
+Q0322,revisar,5062,,0.59453,abaixo do limiar OOF ou ambígua
+Q0323,publicar,5465,,0.996112,
+Q0324,revisar,5465,,0.552156,abaixo do limiar OOF ou ambígua
+Q0325,revisar,5062,,0.628684,abaixo do limiar OOF ou ambígua
+Q0326,revisar,5062,,0.48389,abaixo do limiar OOF ou ambígua
+Q0327,publicar,5062,,0.989145,
+Q0328,publicar,4365,,0.999762,
+Q0329,revisar,5062,,0.688594,abaixo do limiar OOF ou ambígua
+Q0330,publicar,5465,,0.994692,
+Q0331,publicar,5465,,0.999994,
+Q0332,revisar,5465,,0.775655,abaixo do limiar OOF ou ambígua
+Q0333,publicar,5062,,0.983952,
+Q0334,publicar,4365,,0.990984,
+Q0335,revisar,5062,,0.938314,abaixo do limiar OOF ou ambígua
+Q0336,revisar,5062,,0.840988,abaixo do limiar OOF ou ambígua
+Q0337,revisar,5062,,0.962527,abaixo do limiar OOF ou ambígua
+Q0338,revisar,5465,,0.868258,abaixo do limiar OOF ou ambígua
+Q0339,revisar,5465,,0.821868,abaixo do limiar OOF ou ambígua
+Q0340,publicar,5062,,0.998375,
+Q0341,publicar,5062,,0.987212,
+Q0342,revisar,5465,,0.962329,abaixo do limiar OOF ou ambígua
+Q0343,revisar,5062,,0.574099,abaixo do limiar OOF ou ambígua
+Q0344,revisar,5062,,0.909701,abaixo do limiar OOF ou ambígua
+Q0345,publicar,5062,,0.984912,
+Q0346,revisar,5465,,0.903222,abaixo do limiar OOF ou ambígua
+Q0347,revisar,5062,,0.790123,abaixo do limiar OOF ou ambígua
+Q0348,publicar,5062,,0.997715,
+Q0349,revisar,5062,,0.897433,abaixo do limiar OOF ou ambígua
+Q0350,revisar,4683,,0.873429,abaixo do limiar OOF ou ambígua
+Q0351,publicar,5062,,0.999807,
+Q0352,publicar,5465,,0.983338,
+Q0353,revisar,5062,,0.745139,abaixo do limiar OOF ou ambígua
+Q0354,publicar,5062,,0.989592,
+Q0355,revisar,4683,,0.443425,abaixo do limiar OOF ou ambígua
+Q0356,publicar,5062,,0.999977,
+Q0357,revisar,5062,,0.917728,abaixo do limiar OOF ou ambígua
+Q0358,revisar,5062,,0.695438,abaixo do limiar OOF ou ambígua
+Q0359,revisar,5062,,0.696268,abaixo do limiar OOF ou ambígua
+Q0360,revisar,5062,,0.40479,abaixo do limiar OOF ou ambígua
+Q0361,publicar,5062,,0.999998,
+Q0362,publicar,5465,,0.999953,
+Q0363,publicar,5062,,0.999658,
+Q0364,publicar,5062,,0.988385,
+Q0365,revisar,5062,,0.836295,abaixo do limiar OOF ou ambígua
+Q0366,revisar,5465,,0.511837,abaixo do limiar OOF ou ambígua
+Q0367,publicar,5465,,0.999586,
+Q0368,publicar,5465,,0.991985,
+Q0369,publicar,5062,,0.989903,
+Q0370,revisar,5465,,0.542182,abaixo do limiar OOF ou ambígua
+Q0371,revisar,5465,,0.634443,abaixo do limiar OOF ou ambígua
+Q0372,publicar,5465,,0.99994,
+Q0373,revisar,5062,,0.79165,abaixo do limiar OOF ou ambígua
+Q0374,revisar,5062,,0.966359,abaixo do limiar OOF ou ambígua
+Q0375,revisar,5062,,0.94987,abaixo do limiar OOF ou ambígua
+Q0376,revisar,5062,,0.978368,abaixo do limiar OOF ou ambígua
+Q0377,publicar,5465,,0.998866,
+Q0378,publicar,5062,,0.997795,
+Q0379,revisar,5062,,0.839302,abaixo do limiar OOF ou ambígua
+Q0380,publicar,5465,,0.993022,
+Q0381,publicar,5465,,0.999531,
+Q0382,revisar,5062,,0.919308,abaixo do limiar OOF ou ambígua
+Q0383,revisar,4683,,0.725683,abaixo do limiar OOF ou ambígua
+Q0384,publicar,5465,,0.999257,
+Q0385,publicar,5465,,0.999025,
+Q0386,revisar,5062,,0.644604,abaixo do limiar OOF ou ambígua
+Q0387,publicar,5465,,0.981735,
+Q0388,publicar,5465,,0.997842,
+Q0389,publicar,5062,,0.997867,
+Q0390,revisar,4365,,0.651891,abaixo do limiar OOF ou ambígua
+Q0391,revisar,5465,,0.814415,abaixo do limiar OOF ou ambígua
+Q0392,publicar,5062,,0.998471,
+Q0393,fora,,,0.784782,sem tema aplicável na taxonomia
+Q0394,revisar,5465,,0.914284,abaixo do limiar OOF ou ambígua
+Q0395,revisar,5465,,0.907343,abaixo do limiar OOF ou ambígua
+Q0396,revisar,5062,,0.90847,abaixo do limiar OOF ou ambígua
+Q0397,revisar,5062,,0.894671,abaixo do limiar OOF ou ambígua
+Q0398,publicar,5062,,0.99997,
+Q0399,publicar,5062,,0.999984,
+Q0400,revisar,5062,,0.974235,abaixo do limiar OOF ou ambígua
+Q0401,revisar,5062,,0.941323,abaixo do limiar OOF ou ambígua
+Q0402,revisar,5062,,0.934272,abaixo do limiar OOF ou ambígua
+Q0403,revisar,5062,,0.66628,abaixo do limiar OOF ou ambígua
+Q0404,publicar,5062,,0.999978,
+Q0405,revisar,5465,,0.925162,abaixo do limiar OOF ou ambígua
+Q0406,publicar,5062,,0.999995,
+Q0407,publicar,5465,,0.999993,
+Q0408,publicar,5465,,0.99998,
+Q0409,publicar,5062,,0.999998,
+Q0410,publicar,5062,,0.999997,
+Q0411,revisar,5062,,0.957933,abaixo do limiar OOF ou ambígua
+Q0412,publicar,5062,,0.998595,
+Q0413,publicar,5062,,0.999718,
+Q0414,revisar,4683,,0.588696,abaixo do limiar OOF ou ambígua
+Q0415,revisar,4683,,0.622568,abaixo do limiar OOF ou ambígua
+Q0416,fora,,,0.669078,sem tema aplicável na taxonomia
+Q0417,revisar,5062,,0.487418,abaixo do limiar OOF ou ambígua
+Q0418,revisar,5062,,0.761915,abaixo do limiar OOF ou ambígua
+Q0419,publicar,4365,,0.99942,
+Q0420,revisar,4683,,0.623966,abaixo do limiar OOF ou ambígua
+Q0421,revisar,5465,,0.912287,abaixo do limiar OOF ou ambígua
+Q0422,revisar,5062,,0.976785,abaixo do limiar OOF ou ambígua
+Q0423,revisar,5062,,0.803254,abaixo do limiar OOF ou ambígua
+Q0424,fora,,,0.905954,sem tema aplicável na taxonomia
+Q0425,revisar,5465,,0.958417,abaixo do limiar OOF ou ambígua
+Q0426,publicar,5062,,0.997963,
+Q0427,revisar,5465,,0.923508,abaixo do limiar OOF ou ambígua
+Q0428,revisar,5465,,0.567458,abaixo do limiar OOF ou ambígua
+Q0429,publicar,5062,,0.993404,
+Q0430,revisar,4683,,0.655887,abaixo do limiar OOF ou ambígua
+Q0431,revisar,5465,,0.978605,abaixo do limiar OOF ou ambígua
+Q0432,revisar,5465,,0.646506,abaixo do limiar OOF ou ambígua
+Q0433,publicar,5062,,0.996921,
+Q0434,publicar,5465,,0.981748,
+Q0435,revisar,4365,,0.410397,abaixo do limiar OOF ou ambígua
+Q0436,revisar,5062,,0.845462,abaixo do limiar OOF ou ambígua
+Q0437,revisar,5465,,0.555968,abaixo do limiar OOF ou ambígua
+Q0438,publicar,5062,,0.98725,
+Q0439,publicar,5062,,0.99786,
+Q0440,publicar,5465,,0.999503,
+Q0441,revisar,5465,,0.703675,abaixo do limiar OOF ou ambígua
+Q0442,revisar,5465,,0.887678,abaixo do limiar OOF ou ambígua
+Q0443,publicar,5062,,0.999912,
+Q0444,publicar,5465,,0.999219,
+Q0445,revisar,5062,,0.627552,abaixo do limiar OOF ou ambígua
+Q0446,revisar,5465,,0.788913,abaixo do limiar OOF ou ambígua
+Q0447,revisar,5062,,0.959183,abaixo do limiar OOF ou ambígua
+Q0448,revisar,5465,,0.76688,abaixo do limiar OOF ou ambígua
+Q0449,publicar,5062,,0.99954,
+Q0450,publicar,5465,,0.998161,
+Q0451,publicar,5465,,0.999201,
+Q0452,publicar,5465,,0.999934,
+Q0453,revisar,4683,,0.933761,abaixo do limiar OOF ou ambígua
+Q0454,revisar,5062,,0.589205,abaixo do limiar OOF ou ambígua
+Q0455,publicar,5465,,0.990415,
+Q0456,revisar,5062,,0.671926,abaixo do limiar OOF ou ambígua
+Q0457,publicar,5465,,0.9996,
+Q0458,publicar,5062,,0.998838,
+Q0459,revisar,5062,,0.68784,abaixo do limiar OOF ou ambígua
+Q0460,publicar,5062,,0.999989,
+Q0461,revisar,5465,,0.725311,abaixo do limiar OOF ou ambígua
+Q0462,revisar,5062,,0.91605,abaixo do limiar OOF ou ambígua
+Q0463,publicar,5062,,0.985333,
+Q0464,revisar,4683,,0.97211,abaixo do limiar OOF ou ambígua
+Q0465,revisar,5062,,0.819649,abaixo do limiar OOF ou ambígua
+Q0466,revisar,5062,,0.881697,abaixo do limiar OOF ou ambígua
+Q0467,fora,,,0.875081,sem tema aplicável na taxonomia
+Q0468,revisar,5062,,0.590374,abaixo do limiar OOF ou ambígua
+Q0469,revisar,4365,,0.422906,abaixo do limiar OOF ou ambígua
+Q0470,revisar,5465,,0.703435,abaixo do limiar OOF ou ambígua
+Q0471,revisar,5062,,0.975177,abaixo do limiar OOF ou ambígua
+Q0472,publicar,5062,,0.99957,
+Q0473,revisar,5465,,0.977321,abaixo do limiar OOF ou ambígua
+Q0474,revisar,4683,,0.448491,abaixo do limiar OOF ou ambígua
+Q0475,revisar,5062,,0.842417,abaixo do limiar OOF ou ambígua
+Q0476,revisar,5465,,0.900093,abaixo do limiar OOF ou ambígua
+Q0477,publicar,5465,,0.992423,
+Q0478,publicar,5465,,0.993812,
+Q0479,fora,,,0.613948,sem tema aplicável na taxonomia
+Q0480,revisar,5062,,0.977007,abaixo do limiar OOF ou ambígua
+Q0481,revisar,5062,,0.978743,abaixo do limiar OOF ou ambígua
+Q0482,publicar,5465,,0.998756,
+Q0483,publicar,5062,,0.999964,
+Q0484,revisar,4683,,0.897599,abaixo do limiar OOF ou ambígua
+Q0485,revisar,5062,,0.550633,abaixo do limiar OOF ou ambígua
+Q0486,revisar,5465,,0.941184,abaixo do limiar OOF ou ambígua
+Q0487,revisar,5062,,0.963323,abaixo do limiar OOF ou ambígua
+Q0488,publicar,5062,,1.0,
+Q0489,revisar,5062,,0.975445,abaixo do limiar OOF ou ambígua
+Q0490,publicar,5062,,0.999779,
+Q0491,publicar,5062,,0.990948,
+Q0492,revisar,5062,,0.943457,abaixo do limiar OOF ou ambígua
+Q0493,publicar,5465,,0.989139,
+Q0494,revisar,5465,,0.910707,abaixo do limiar OOF ou ambígua
+Q0495,revisar,5062,,0.787065,abaixo do limiar OOF ou ambígua
+Q0496,publicar,5062,,0.993181,
+Q0497,publicar,5465,,0.994183,
+Q0498,revisar,5062,,0.978886,abaixo do limiar OOF ou ambígua
+Q0499,publicar,5062,,0.99697,
+Q0500,revisar,5062,,0.565566,abaixo do limiar OOF ou ambígua
+Q0501,revisar,4683,,0.973345,abaixo do limiar OOF ou ambígua
+Q0502,publicar,5062,,0.999983,
+Q0503,revisar,4365,,0.832869,abaixo do limiar OOF ou ambígua
+Q0504,revisar,5062,,0.976797,abaixo do limiar OOF ou ambígua
+Q0505,publicar,5062,,0.999252,
+Q0506,revisar,5465,,0.562512,abaixo do limiar OOF ou ambígua
+Q0507,publicar,5062,,0.999853,
+Q0508,revisar,4683,,0.905032,abaixo do limiar OOF ou ambígua
+Q0509,publicar,5465,,0.999739,
+Q0510,publicar,5465,,0.98262,
+Q0511,revisar,5465,,0.818716,abaixo do limiar OOF ou ambígua
+Q0512,revisar,5465,,0.904909,abaixo do limiar OOF ou ambígua
+Q0513,revisar,5062,,0.543167,abaixo do limiar OOF ou ambígua
+Q0514,revisar,5465,,0.472193,abaixo do limiar OOF ou ambígua
+Q0515,revisar,4683,,0.872866,abaixo do limiar OOF ou ambígua
+Q0516,revisar,4683,,0.630923,abaixo do limiar OOF ou ambígua
+Q0517,revisar,5465,,0.922574,abaixo do limiar OOF ou ambígua
+Q0518,publicar,5062,,0.999234,
+Q0519,revisar,5465,,0.90981,abaixo do limiar OOF ou ambígua
+Q0520,revisar,5062,,0.742845,abaixo do limiar OOF ou ambígua
+Q0521,revisar,4365,,0.540123,abaixo do limiar OOF ou ambígua
+Q0522,revisar,5465,,0.941597,abaixo do limiar OOF ou ambígua
+Q0523,revisar,5465,,0.948598,abaixo do limiar OOF ou ambígua
+Q0524,publicar,5062,,0.989521,
+Q0525,publicar,5062,,0.998276,
+Q0526,revisar,4365,,0.870885,abaixo do limiar OOF ou ambígua
+Q0527,fora,,,0.876619,sem tema aplicável na taxonomia
+Q0528,revisar,5062,,0.563328,abaixo do limiar OOF ou ambígua
+Q0529,revisar,5062,,0.98001,abaixo do limiar OOF ou ambígua
+Q0530,revisar,5465,,0.808518,abaixo do limiar OOF ou ambígua
+Q0531,revisar,5465,,0.870745,abaixo do limiar OOF ou ambígua
+Q0532,publicar,5062,,0.999334,
+Q0533,publicar,5062,,0.999955,
+Q0534,revisar,4365,,0.436384,abaixo do limiar OOF ou ambígua
+Q0535,publicar,4683,,0.995102,
+Q0536,publicar,5465,,0.999929,
+Q0537,publicar,5465,,0.991255,
+Q0538,revisar,5062,,0.938156,abaixo do limiar OOF ou ambígua
+Q0539,revisar,5062,,0.966757,abaixo do limiar OOF ou ambígua
+Q0540,revisar,5062,,0.859915,abaixo do limiar OOF ou ambígua
+Q0541,publicar,5062,,0.989295,
+Q0542,revisar,5465,,0.924489,abaixo do limiar OOF ou ambígua
+Q0543,revisar,5465,,0.867975,abaixo do limiar OOF ou ambígua
+Q0544,revisar,5465,,0.917199,abaixo do limiar OOF ou ambígua
+Q0545,publicar,4365,,0.999636,
+Q0546,revisar,5062,,0.979521,abaixo do limiar OOF ou ambígua
+Q0547,revisar,5062,,0.975887,abaixo do limiar OOF ou ambígua
+Q0548,publicar,5465,,0.984403,
+Q0549,revisar,4683,,0.693679,abaixo do limiar OOF ou ambígua
+Q0550,publicar,5062,,0.997627,
+Q0551,revisar,5465,,0.932877,abaixo do limiar OOF ou ambígua
+Q0552,revisar,5465,,0.975477,abaixo do limiar OOF ou ambígua
+Q0553,revisar,5465,,0.944651,abaixo do limiar OOF ou ambígua
+Q0554,publicar,5062,,0.997229,
+Q0555,publicar,5062,,0.999432,
+Q0556,publicar,4365,,0.995332,
+Q0557,revisar,5465,,0.911707,abaixo do limiar OOF ou ambígua
+Q0558,revisar,5465,,0.957933,abaixo do limiar OOF ou ambígua
+Q0559,publicar,5062,,0.995558,
+Q0560,revisar,4683,,0.766153,abaixo do limiar OOF ou ambígua
+Q0561,publicar,5062,,0.999958,
+Q0562,publicar,5062,,0.999812,
+Q0563,publicar,4365,,0.997977,
+Q0564,publicar,4365,,0.980756,
+Q0565,revisar,5465,,0.91811,abaixo do limiar OOF ou ambígua
+Q0566,publicar,5062,,0.995103,
+Q0567,revisar,5062,,0.496052,abaixo do limiar OOF ou ambígua
+Q0568,revisar,5062,,0.975096,abaixo do limiar OOF ou ambígua
+Q0569,revisar,5465,,0.551957,abaixo do limiar OOF ou ambígua
+Q0570,revisar,5465,,0.973289,abaixo do limiar OOF ou ambígua
+Q0571,revisar,5465,,0.865118,abaixo do limiar OOF ou ambígua
+Q0572,revisar,4683,,0.832417,abaixo do limiar OOF ou ambígua
+Q0573,revisar,5062,,0.865704,abaixo do limiar OOF ou ambígua
+Q0574,revisar,5062,,0.803695,abaixo do limiar OOF ou ambígua
+Q0575,revisar,5465,,0.968219,abaixo do limiar OOF ou ambígua
+Q0576,publicar,5062,,0.994469,
+Q0577,revisar,4683,,0.67232,abaixo do limiar OOF ou ambígua
+Q0578,revisar,5062,,0.934008,abaixo do limiar OOF ou ambígua
+Q0579,revisar,5465,,0.975668,abaixo do limiar OOF ou ambígua
+Q0580,revisar,5062,,0.50717,abaixo do limiar OOF ou ambígua
+Q0581,revisar,5465,,0.817674,abaixo do limiar OOF ou ambígua
+Q0582,revisar,5062,,0.771096,abaixo do limiar OOF ou ambígua
+Q0583,revisar,5062,,0.887021,abaixo do limiar OOF ou ambígua
+Q0584,revisar,5062,,0.967795,abaixo do limiar OOF ou ambígua
+Q0585,revisar,5062,,0.935336,abaixo do limiar OOF ou ambígua
+Q0586,revisar,5465,,0.900734,abaixo do limiar OOF ou ambígua
+Q0587,revisar,5062,,0.978709,abaixo do limiar OOF ou ambígua
+Q0588,publicar,4365,,0.999975,
+Q0589,revisar,5062,,0.544486,abaixo do limiar OOF ou ambígua
+Q0590,publicar,5062,,0.997463,
+Q0591,publicar,5465,,0.995544,
+Q0592,publicar,5062,,0.986281,
+Q0593,revisar,5062,,0.901513,abaixo do limiar OOF ou ambígua
+Q0594,revisar,5062,,0.916659,abaixo do limiar OOF ou ambígua
+Q0595,publicar,5465,,0.998548,
+Q0596,revisar,5062,,0.899708,abaixo do limiar OOF ou ambígua
+Q0597,revisar,5465,,0.960306,abaixo do limiar OOF ou ambígua
+Q0598,publicar,4365,,0.996867,
+Q0599,fora,,,0.395894,sem tema aplicável na taxonomia
+Q0600,revisar,5062,,0.940521,abaixo do limiar OOF ou ambígua
+Q0601,publicar,5465,,0.986536,
+Q0602,revisar,5062,,0.848907,abaixo do limiar OOF ou ambígua
+Q0603,publicar,5062,,0.999912,
+Q0604,publicar,5062,,0.992178,
+Q0605,revisar,5465,,0.822363,abaixo do limiar OOF ou ambígua
+Q0606,revisar,5062,,0.766868,abaixo do limiar OOF ou ambígua
+Q0607,revisar,4365,,0.944774,abaixo do limiar OOF ou ambígua
+Q0608,publicar,5062,,0.992863,
+Q0609,revisar,5062,,0.838039,abaixo do limiar OOF ou ambígua
+Q0610,revisar,4683,,0.7341,abaixo do limiar OOF ou ambígua
+Q0611,publicar,5062,,0.99995,
+Q0612,revisar,5465,,0.769208,abaixo do limiar OOF ou ambígua
+Q0613,revisar,4683,,0.749704,abaixo do limiar OOF ou ambígua
+Q0614,revisar,5062,,0.802628,abaixo do limiar OOF ou ambígua
+Q0615,revisar,5062,,0.771094,abaixo do limiar OOF ou ambígua
+Q0616,revisar,5062,,0.545938,abaixo do limiar OOF ou ambígua
+Q0617,revisar,5465,,0.939459,abaixo do limiar OOF ou ambígua
+Q0618,publicar,5062,,0.999626,
+Q0619,revisar,5465,,0.578903,abaixo do limiar OOF ou ambígua
+Q0620,revisar,5062,,0.754825,abaixo do limiar OOF ou ambígua
+Q0621,revisar,5465,,0.863323,abaixo do limiar OOF ou ambígua
+Q0622,revisar,5062,,0.798236,abaixo do limiar OOF ou ambígua
+Q0623,revisar,5465,,0.966748,abaixo do limiar OOF ou ambígua
+Q0624,revisar,4683,,0.955199,abaixo do limiar OOF ou ambígua
+Q0625,publicar,5062,,0.998243,
+Q0626,revisar,5465,,0.779732,abaixo do limiar OOF ou ambígua
+Q0627,publicar,5062,,0.999997,
+Q0628,revisar,5465,,0.940547,abaixo do limiar OOF ou ambígua
+Q0629,publicar,4365,,0.998532,
+Q0630,publicar,5062,,0.999988,
+Q0631,revisar,5062,,0.95077,abaixo do limiar OOF ou ambígua
+Q0632,publicar,5062,,0.999928,
+Q0633,revisar,5062,,0.978761,abaixo do limiar OOF ou ambígua
+Q0634,revisar,5465,,0.960411,abaixo do limiar OOF ou ambígua
+Q0635,revisar,5062,,0.879142,abaixo do limiar OOF ou ambígua
+Q0636,revisar,5062,,0.80274,abaixo do limiar OOF ou ambígua
+Q0637,publicar,5062,,0.999944,
+Q0638,publicar,5062,,0.995127,
+Q0639,publicar,4683,,0.996504,
+Q0640,publicar,5062,,0.998941,
+Q0641,publicar,5062,,0.999727,
+Q0642,revisar,5062,,0.616493,abaixo do limiar OOF ou ambígua
+Q0643,revisar,5062,,0.401757,abaixo do limiar OOF ou ambígua
+Q0644,publicar,5062,,0.998893,
+Q0645,revisar,5062,,0.936837,abaixo do limiar OOF ou ambígua
+Q0646,revisar,4365,,0.918993,abaixo do limiar OOF ou ambígua
+Q0647,publicar,5465,,0.995269,
+Q0648,revisar,4683,,0.663788,abaixo do limiar OOF ou ambígua
+Q0649,fora,,,0.982738,sem tema aplicável na taxonomia
+Q0650,fora,,,0.757858,sem tema aplicável na taxonomia
+Q0651,revisar,4683,,0.930654,abaixo do limiar OOF ou ambígua
+Q0652,revisar,5062,,0.958741,abaixo do limiar OOF ou ambígua
+Q0653,revisar,5062,,0.874672,abaixo do limiar OOF ou ambígua
+Q0654,fora,,,0.967607,sem tema aplicável na taxonomia
+Q0655,publicar,4365,,0.998383,
+Q0656,revisar,5062,,0.949637,abaixo do limiar OOF ou ambígua
+Q0657,revisar,5062,,0.970543,abaixo do limiar OOF ou ambígua
+Q0658,publicar,4365,,0.992205,
+Q0659,revisar,4683,,0.872004,abaixo do limiar OOF ou ambígua
